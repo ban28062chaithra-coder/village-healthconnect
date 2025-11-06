@@ -1,16 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to village-healthconnect
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/29da61c1-b078-427b-a4cd-931be709d57e
+**URL**:  http://www.ruralconect.in/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use villageconnect**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/29da61c1-b078-427b-a4cd-931be709d57e) and start prompting.
+Simply visit the [villageconnect project]( http://www.ruralconect.in/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -24,10 +24,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone < http://www.ruralconect.in/>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <villageconnect>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -62,12 +62,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/29da61c1-b078-427b-a4cd-931be709d57e) and click on Share -> Publish.
+Simply open [villageconnect]( http://www.ruralconect.in/) 
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my villageconnect project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Read more here: [Setting up a custom domain]( http://www.ruralconect.in/)
